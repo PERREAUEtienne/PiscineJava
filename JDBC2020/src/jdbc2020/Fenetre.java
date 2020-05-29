@@ -148,6 +148,7 @@ public class Fenetre extends JFrame implements ActionListener, ItemListener {
         maconnexion.ajouterTable("Emp");
         maconnexion.ajouterTable("Dept");
         maconnexion.ajouterTable("Mission");
+        maconnexion.ajouterTable("etudiant");
     }
 
     /**
